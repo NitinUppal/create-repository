@@ -1,4 +1,4 @@
-THIS SHOULD BE A LINTER ERRORimport os
+import os
 import re
 import json
 import logging
